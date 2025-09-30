@@ -66,8 +66,3 @@ I am a Software Engineer based in Virginia, USA, with a passion for building sca
 
 #### Tools, Cloud & APIs
 `Git`, `GitHub`, `NPM`, `Amazon Web Service(AWS)`, `Google Cloud`, `GraphQL`, `REST APIs`
-
-### Github Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-Nish14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
