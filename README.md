@@ -1,5 +1,5 @@
 <h1 align="center">Nish Patel</h1>
-<h3 align="center">Full-Stack Engineer </h3>
+<h3 align="center">Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
 Designing scalable distributed systems and AI-powered applications.
