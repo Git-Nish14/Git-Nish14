@@ -9,12 +9,11 @@ Building scalable backend systems, high-performance APIs, and AI-integrated prod
 
 ## About
 
-Software Engineer with 3+ years of experience designing and deploying scalable full-stack systems and cloud-native infrastructure. My work focuses on backend performance engineering, distributed systems, and integrating large language models into production applications.
+- Software Engineer with 3+ years of experience designing and deploying scalable full-stack systems and cloud-native infrastructure. My work focuses on backend performance engineering, distributed systems, and integrating large language models into production applications.
 
-Currently pursuing an M.S. in Computer Science at Old Dominion University while working as a Graduate Research Assistant building LLM-integrated platforms designed for high-concurrency workloads and real-time inference.
+- Currently pursuing an M.S. in Computer Science at Old Dominion University while working as a Graduate Research Assistant building LLM-integrated platforms designed for high-concurrency workloads and real-time inference.
 
-I enjoy solving problems around system scalability, database performance, and designing resilient backend architectures that support large-scale applications.
-
+- I enjoy solving problems around system scalability, database performance, and designing resilient backend architectures that support large-scale applications.
 
 ## Core Expertise
 
@@ -46,31 +45,30 @@ I enjoy solving problems around system scalability, database performance, and de
 
 ## Selected Work
 
-### Cybercup.ai (ODU)
+### [Cybercup.ai (ODU) – Cyber AI Competition Unified Platform (CUP)](https://cybercup.ai)
 
-- Engineered Node.js backend services supporting **1,000+ concurrent users**
-- Reduced **P95 latency from 780ms → 430ms** through Redis caching and PostgreSQL index optimization
-- Eliminated **N+1 query bottlenecks** in GraphQL services
-- Implemented **JWT-based RBAC authorization** across multi-role systems
-- Containerized services with **Docker and automated AWS CI/CD pipelines**
-- Maintained **99.9% uptime** with monitoring via AWS CloudWatch
+AI-powered cybersecurity competition platform developed at Old Dominion University.
 
----
+- Engineered Node.js backend services supporting **1,000+ concurrent users**.
+- Reduced **P95 latency from 780ms → 430ms** via Redis caching and PostgreSQL index optimization.
+- Eliminated **N+1 query bottlenecks** in GraphQL APIs.
+- Built **LLM-powered dynamic question generation** for cybersecurity learning workflows.
+- Implemented **secure JWT-based RBAC authorization** for multi-role users.
+- Containerized services using **Docker** and deployed via **automated AWS CI/CD pipelines**, maintaining **99.9% uptime**.
 
 ### Serverless Cloud Infrastructure (Codage Habitation)
 
-- Designed serverless architecture using **AWS Lambda, API Gateway, DynamoDB, and PostgreSQL**
-- Reduced infrastructure cost by **21%** while supporting **20K+ users**
-- Re-architected GraphQL data layer, reducing API latency by **37%**
-- Built AI developer tooling pipelines using **OpenAI, Gemini, and LangChain**
-
----
+- Architected scalable backend infrastructure using **AWS Lambda, API Gateway, DynamoDB, and PostgreSQL**.
+- Reduced **infrastructure operational costs by 21%** while supporting **20K+ users**.
+- Redesigned **GraphQL architecture** to eliminate redundant queries, reducing **API latency by 37%**.
+- Integrated **AI-powered developer workflows** using **OpenAI API, Gemini, and LangChain**.
 
 ### LegalOne – LegalTech Platform
 
-- Developed full-stack legal services platform using **Next.js, Node.js, GraphQL, and Prisma**
-- Implemented **secure real-time messaging using Socket.IO**
-- Built **AES-encrypted communication layer** for secure message exchange
+- Designed and implemented **JWT-based authentication and role-based access control (RBAC)**.
+- Engineered a **modular GraphQL API layer with Prisma**, improving scalability and maintainability.
+- Built **secure real-time 1:1 messaging using Socket.IO**.
+- Implemented **AES-encrypted message payloads** and session-based authentication for secure communication.
 
 ---
 
