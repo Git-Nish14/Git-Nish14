@@ -74,7 +74,7 @@ AI-powered cybersecurity competition platform developed at Old Dominion Universi
 
 ## Let's Connect
 
-LinkedIn: linkedin.com/in/nishpatel14  
-GitHub: github.com/Git-Nish14  
-Portfolio: nishpatel.dev  
-Email: Nishpatel.cse@gmail.com
+LinkedIn: [linkedin.com/in/nishpatel14](https://linkedin.com/in/nishpatel14)  
+GitHub: [github.com/Git-Nish14](https://github.com/Git-Nish14)  
+Portfolio: [nishpatel.dev](https://www.nishpatel.dev)  
+Email: [Nishpatel.cse@gmail.com](mailto:Nishpatel.cse@gmail.com)
