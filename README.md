@@ -35,8 +35,8 @@ Building scalable backend systems, high-performance APIs, and AI-integrated prod
 
 ## Technical Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C++  
-**Frontend:** React.js, Next.js  
+**Languages:** Python, TypeScript, JavaScript, Java, C, C++  
+**Frontend:** React.js, Next.js, AngularJS  
 **Backend:** Node.js, FastAPI, Express, GraphQL, Prisma  
 **Databases:** PostgreSQL, MongoDB, DynamoDB, Redis, MySQL  
 **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions, CI/CD  
