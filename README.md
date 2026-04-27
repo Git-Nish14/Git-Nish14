@@ -50,7 +50,7 @@ Building scalable backend systems, high-performance APIs, and AI-integrated prod
 AI-powered cybersecurity competition platform developed at Old Dominion University.
 
 - Engineered Node.js backend services supporting **1,000+ concurrent users**.
-- - Optimized PostgreSQL schema via **MikroORM** — added indexes, eliminated **N+1 query bottlenecks**, and tuned GraphQL resolvers, reducing **P95 latency from 780ms → 430ms**.
+- Optimized PostgreSQL schema via **MikroORM** — added indexes, eliminated **N+1 query bottlenecks**, and tuned GraphQL resolvers, reducing **P95 latency from 780ms → 430ms**.
 - Built **LLM-powered dynamic question generation** for cybersecurity learning workflows.
 - Implemented **secure JWT-based RBAC authorization** for multi-role users.
 - Containerized services with **Docker and Docker Compose**, deployed behind **NGINX reverse proxy and Cloudflare** for DDoS protection; engineered a **per-user isolated CTF container system** with dynamic port allocation via the Docker HTTPS API.
