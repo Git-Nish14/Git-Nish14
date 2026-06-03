@@ -1,7 +1,7 @@
 <h1 align="center">Nish Patel</h1>
 <h3 align="center">Full-Stack Engineer | Distributed Systems | AI-Powered Applications</h3>
 <p align="center">
-Building end-to-end products — from pixel-perfect UIs to high-performance backend systems and cloud-native infrastructure.
+Building end-to-end products from pixel-perfect UIs to high-performance backend systems and cloud-native infrastructure.
 </p>
 
 ---
@@ -90,6 +90,9 @@ End-to-end LegalTech platform with secure messaging, role-based access, and a mo
 ## Let's Connect
 
 LinkedIn: [linkedin.com/in/nishpatel14](https://linkedin.com/in/nishpatel14)
+
 GitHub: [github.com/Git-Nish14](https://github.com/Git-Nish14)
+
 Portfolio: [nishpatel.dev](https://www.nishpatel.dev)
+
 Email: [Nishpatel.cse@gmail.com](mailto:Nishpatel.cse@gmail.com)
