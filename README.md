@@ -9,7 +9,7 @@ Building end-to-end products from pixel-perfect UIs to high-performance backend 
 ## About
 
 - Full-Stack Software Engineer with 3+ years of experience building complete, production-grade web applications — from responsive React/Next.js frontends to scalable backend APIs, cloud infrastructure, and AI integrations.
-- Currently pursuing an M.S. in Computer Science at Old Dominion University while working as a Graduate Research Assistant, where I own the full product lifecycle: UI design, API development, database architecture, and LLM integration.
+- Currently pursuing an M.S. in Computer Science at Old Dominion University while working as a Software Engineer, where I own the full product lifecycle: UI design, API development, database architecture, and LLM integration.
 - I care about the entire user experience - building interfaces that are fast and intuitive, backed by systems that are reliable and scalable.
 
 ---
