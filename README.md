@@ -3,6 +3,8 @@
 
 I build web apps, optimize backend systems, and use AI to simplify everyday workflows. I have about **2 years of professional experience, including internships**, and I'm pursuing an **M.S. in Computer Science at Old Dominion University**, with an expected graduation date of **May 2027**.
 
+**Open to relocating for the right opportunity.**
+
 ## Experience
 
 - **CyberCup.AI | Software Engineer (Dec 2025 to Present)**  
